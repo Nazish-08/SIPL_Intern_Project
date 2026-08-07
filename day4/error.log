@@ -1,0 +1,3 @@
+2026-08-07 14:58:43,564 - ERROR - Rejected Row: {'vehicle': '', 'gate': 'Gate-1', 'tat': '15'}
+2026-08-07 14:59:24,670 - ERROR - Rejected Row: {'vehicle': '', 'gate': 'Gate-1', 'tat': '15'}
+2026-08-07 15:02:25,328 - ERROR - Rejected Row: {'vehicle': '', 'gate': 'Gate-1', 'tat': '15'}
