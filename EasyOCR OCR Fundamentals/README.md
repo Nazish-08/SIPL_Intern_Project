@@ -1,8 +1,12 @@
 # Day 18: EasyOCR OCR Fundamentals and First Extraction
 
-## 1. Objective
+## Description
 
-The objective of this task was to understand the fundamentals of Optical Character Recognition (OCR) using EasyOCR and perform the first text extraction experiments.
+This project introduces Optical Character Recognition (OCR) using EasyOCR. It performs text detection and recognition on license plate and signboard image crops and stores the raw OCR results in JSON format.
+
+## Objective
+
+The objective of this task was to understand the fundamentals of OCR using EasyOCR.
 
 The task focused on:
 
@@ -13,26 +17,55 @@ The task focused on:
 - Using language configuration
 - Running OCR on CPU
 - Processing license plate and signboard images
-- Saving raw OCR results in JSON format
+- Saving OCR results in JSON format
 
----
+## Dataset
 
-## 2. Environment
+A total of 20 image crops were used:
 
-### Software
+- 10 license plate images
+- 10 signboard images
 
-- Python 3
+## Features
+
+- EasyOCR installation and configuration
+- English language OCR
+- CPU based OCR inference
+- Text detection
+- Text recognition
+- Confidence score extraction
+- Bounding box extraction
+- License plate OCR
+- Signboard OCR
+- JSON result generation
+
+## Project Structure
+
+- crops/
+- crops/plate/
+- crops/signboard/
+- ocr_extraction.py
+- ocr_results.json
+- README.md
+
+## Concepts Used
+
 - EasyOCR
-- Pillow
+- `easyocr.Reader`
+- `readtext()`
+- `lang_list`
+- `gpu`
+- `detail`
+- `paragraph`
+- Bounding boxes
+- OCR confidence
 - JSON
-- PyTorch
+- Text detection
+- Text recognition
 
-### Hardware
+## EasyOCR Configuration
 
-- CPU inference
-- GPU disabled
-
-EasyOCR was configured with:
+EasyOCR was configured for English language OCR and CPU inference.
 
 ```python
 reader = easyocr.Reader(

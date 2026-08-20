@@ -1,0 +1,1321 @@
+[
+    {
+        "image": "plate01.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Mote Beam",
+                        "cleaned_text": "MOTEBEAM",
+                        "confidence": 0.6068,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Moto",
+                        "cleaned_text": "MOTO",
+                        "confidence": 0.5725,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Beam",
+                        "cleaned_text": "BEAM",
+                        "confidence": 0.9519,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "HRZGDK0281",
+                        "cleaned_text": "HRZGDK0281",
+                        "confidence": 0.5556,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Moto Beam",
+                        "cleaned_text": "MOTOBEAM",
+                        "confidence": 0.568,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "HRZGDK0281",
+                        "cleaned_text": "HRZGDK0281",
+                        "confidence": 0.6929,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Beam",
+                        "cleaned_text": "BEAM",
+                        "confidence": 0.9749,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "plate02.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CALL",
+                        "cleaned_text": "CALL",
+                        "confidence": 0.5716,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "KA 01 Ag 1034",
+                        "cleaned_text": "KA01AG1034",
+                        "confidence": 0.6267,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CALL",
+                        "cleaned_text": "CALL",
+                        "confidence": 0.5716,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "KA 01 Ag 1034",
+                        "cleaned_text": "KA01AG1034",
+                        "confidence": 0.6452,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "KA 01Aq 7034",
+                        "cleaned_text": "KA01AQ7034",
+                        "confidence": 0.7418,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "plate03.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "IND",
+                        "cleaned_text": "IND",
+                        "confidence": 0.9971,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "INDI",
+                        "cleaned_text": "INDI",
+                        "confidence": 0.8472,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "HRZGDK8337|",
+                        "cleaned_text": "HRZGDK8337",
+                        "confidence": 0.6932,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "HRZGDK8337|",
+                        "cleaned_text": "HRZGDK8337",
+                        "confidence": 0.6168,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "HRZ6DK8337",
+                        "cleaned_text": "HRZ6DK8337",
+                        "confidence": 0.6665,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "plate04.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "grayscale": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "clahe": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "threshold": {
+                "accepted_detections": [],
+                "detection_count": 0
+            }
+        }
+    },
+    {
+        "image": "plate05.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "grayscale": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "clahe": {
+                "accepted_detections": [],
+                "detection_count": 0
+            },
+            "threshold": {
+                "accepted_detections": [],
+                "detection_count": 0
+            }
+        }
+    },
+    {
+        "image": "plate06.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Black Number Plate in India",
+                        "cleaned_text": "BLACKNUMBERPLATEININDIA",
+                        "confidence": 0.9574,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "MH 12AB 3456",
+                        "cleaned_text": "MH12AB3456",
+                        "confidence": 0.9245,
+                        "valid_indian_plate": true
+                    },
+                    {
+                        "raw_text": "Coverfox",
+                        "cleaned_text": "COVERFOX",
+                        "confidence": 0.9999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Black Number Plate in India",
+                        "cleaned_text": "BLACKNUMBERPLATEININDIA",
+                        "confidence": 0.9574,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "MH 12AB 3456",
+                        "cleaned_text": "MH12AB3456",
+                        "confidence": 0.9245,
+                        "valid_indian_plate": true
+                    },
+                    {
+                        "raw_text": "Coverfox",
+                        "cleaned_text": "COVERFOX",
+                        "confidence": 0.9916,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Black Number Plate in India",
+                        "cleaned_text": "BLACKNUMBERPLATEININDIA",
+                        "confidence": 0.9422,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Coverfox",
+                        "cleaned_text": "COVERFOX",
+                        "confidence": 0.8782,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Black Number Plate in India",
+                        "cleaned_text": "BLACKNUMBERPLATEININDIA",
+                        "confidence": 0.8885,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "MH 12AB 3456",
+                        "cleaned_text": "MH12AB3456",
+                        "confidence": 0.574,
+                        "valid_indian_plate": true
+                    },
+                    {
+                        "raw_text": "coverfox",
+                        "cleaned_text": "COVERFOX",
+                        "confidence": 0.6051,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            }
+        }
+    },
+    {
+        "image": "plate07.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "PLPVC   PIPES",
+                        "cleaned_text": "PLPVCPIPES",
+                        "confidence": 0.6892,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "HRZ 1C8Z03",
+                        "cleaned_text": "HRZ1C8Z03",
+                        "confidence": 0.5,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "PLPVC   PIPES",
+                        "cleaned_text": "PLPVCPIPES",
+                        "confidence": 0.6892,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "HRZ 1C8Z03",
+                        "cleaned_text": "HRZ1C8Z03",
+                        "confidence": 0.5,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "HRZAC8Z03",
+                        "cleaned_text": "HRZAC8Z03",
+                        "confidence": 0.5048,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "HRZ 1C8703",
+                        "cleaned_text": "HRZ1C8703",
+                        "confidence": 0.6652,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "plate08.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "SRI",
+                        "cleaned_text": "SRI",
+                        "confidence": 0.9223,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "SHABARI BAKERY",
+                        "cleaned_text": "SHABARIBAKERY",
+                        "confidence": 0.8695,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "SRI",
+                        "cleaned_text": "SRI",
+                        "confidence": 0.9223,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "9",
+                        "cleaned_text": "9",
+                        "confidence": 0.8628,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Gola",
+                        "cleaned_text": "GOLA",
+                        "confidence": 0.5036,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "SHABARI BAKERY",
+                        "cleaned_text": "SHABARIBAKERY",
+                        "confidence": 0.8695,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 4
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "SRI",
+                        "cleaned_text": "SRI",
+                        "confidence": 0.9174,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "9",
+                        "cleaned_text": "9",
+                        "confidence": 0.9525,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "SHABARIBAKERY",
+                        "cleaned_text": "SHABARIBAKERY",
+                        "confidence": 0.7901,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Exvzi",
+                        "cleaned_text": "EXVZI",
+                        "confidence": 0.5632,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "RKASTAE8755]",
+                        "cleaned_text": "RKASTAE8755",
+                        "confidence": 0.619,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            }
+        }
+    },
+    {
+        "image": "plate09.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8041,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8041,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8371,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TH09 BY 9726",
+                        "cleaned_text": "TH09BY9726",
+                        "confidence": 0.6677,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "plate10.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8041,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8041,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TN 09 BY 9726",
+                        "cleaned_text": "TN09BY9726",
+                        "confidence": 0.8371,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "TH09 BY 9726",
+                        "cleaned_text": "TH09BY9726",
+                        "confidence": 0.6677,
+                        "valid_indian_plate": true
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "sign01.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "GIVE",
+                        "cleaned_text": "GIVE",
+                        "confidence": 0.9995,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAY",
+                        "cleaned_text": "WAY",
+                        "confidence": 0.9989,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "GIVE",
+                        "cleaned_text": "GIVE",
+                        "confidence": 0.9995,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAY",
+                        "cleaned_text": "WAY",
+                        "confidence": 0.9989,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "GIVE",
+                        "cleaned_text": "GIVE",
+                        "confidence": 0.9996,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAY",
+                        "cleaned_text": "WAY",
+                        "confidence": 0.999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "GIVE",
+                        "cleaned_text": "GIVE",
+                        "confidence": 0.9995,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAY",
+                        "cleaned_text": "WAY",
+                        "confidence": 0.9978,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            }
+        }
+    },
+    {
+        "image": "sign02.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Street",
+                        "cleaned_text": "STREET",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "West",
+                        "cleaned_text": "WEST",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Coleraine",
+                        "cleaned_text": "COLERAINE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Drive",
+                        "cleaned_text": "DRIVE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "King",
+                        "cleaned_text": "KING",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 5
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Street",
+                        "cleaned_text": "STREET",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "West",
+                        "cleaned_text": "WEST",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Coleraine",
+                        "cleaned_text": "COLERAINE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Drive",
+                        "cleaned_text": "DRIVE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "King",
+                        "cleaned_text": "KING",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 5
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "Street",
+                        "cleaned_text": "STREET",
+                        "confidence": 0.9232,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "West",
+                        "cleaned_text": "WEST",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Coleraine",
+                        "cleaned_text": "COLERAINE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Drive",
+                        "cleaned_text": "DRIVE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "King",
+                        "cleaned_text": "KING",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 5
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "King Street",
+                        "cleaned_text": "KINGSTREET",
+                        "confidence": 0.9993,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "West",
+                        "cleaned_text": "WEST",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Coleraine",
+                        "cleaned_text": "COLERAINE",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Drive",
+                        "cleaned_text": "DRIVE",
+                        "confidence": 0.9999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 4
+            }
+        }
+    },
+    {
+        "image": "sign03.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "6",
+                        "cleaned_text": "6",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "1.98m",
+                        "cleaned_text": "198M",
+                        "confidence": 0.92,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "6",
+                        "cleaned_text": "6",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "1.98m",
+                        "cleaned_text": "198M",
+                        "confidence": 0.92,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "6",
+                        "cleaned_text": "6",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "1.98m",
+                        "cleaned_text": "198M",
+                        "confidence": 0.9895,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "1.98m",
+                        "cleaned_text": "198M",
+                        "confidence": 0.7575,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "sign04.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DO NOT",
+                        "cleaned_text": "DONOT",
+                        "confidence": 0.9849,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "ENTER",
+                        "cleaned_text": "ENTER",
+                        "confidence": 0.976,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DO NOT",
+                        "cleaned_text": "DONOT",
+                        "confidence": 0.9888,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "ENTER",
+                        "cleaned_text": "ENTER",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DO NOT",
+                        "cleaned_text": "DONOT",
+                        "confidence": 0.6216,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "ENTER",
+                        "cleaned_text": "ENTER",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DO",
+                        "cleaned_text": "DO",
+                        "confidence": 0.9561,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "NOT",
+                        "cleaned_text": "NOT",
+                        "confidence": 0.9958,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "ENTER",
+                        "cleaned_text": "ENTER",
+                        "confidence": 1.0,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            }
+        }
+    },
+    {
+        "image": "sign05.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "EXIT",
+                        "cleaned_text": "EXIT",
+                        "confidence": 0.9991,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "EXIT",
+                        "cleaned_text": "EXIT",
+                        "confidence": 0.9991,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "EXIT",
+                        "cleaned_text": "EXIT",
+                        "confidence": 0.9989,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "EXIT",
+                        "cleaned_text": "EXIT",
+                        "confidence": 0.9683,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "sign06.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CAUTION",
+                        "cleaned_text": "CAUTION",
+                        "confidence": 0.8233,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LAFFEIe",
+                        "cleaned_text": "LAFFEIE",
+                        "confidence": 0.6924,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "addict",
+                        "cleaned_text": "ADDICT",
+                        "confidence": 0.5782,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CAUTION",
+                        "cleaned_text": "CAUTION",
+                        "confidence": 0.849,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "addict",
+                        "cleaned_text": "ADDICT",
+                        "confidence": 0.5782,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CAUTION",
+                        "cleaned_text": "CAUTION",
+                        "confidence": 0.846,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "Laffeine",
+                        "cleaned_text": "LAFFEINE",
+                        "confidence": 0.5146,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "addilt",
+                        "cleaned_text": "ADDILT",
+                        "confidence": 0.5529,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "CAUTION",
+                        "cleaned_text": "CAUTION",
+                        "confidence": 0.8975,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LAFFEINE",
+                        "cleaned_text": "LAFFEINE",
+                        "confidence": 0.6622,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "addict",
+                        "cleaned_text": "ADDICT",
+                        "confidence": 0.7074,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            }
+        }
+    },
+    {
+        "image": "sign07.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "STOP",
+                        "cleaned_text": "STOP",
+                        "confidence": 0.9983,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "STOP",
+                        "cleaned_text": "STOP",
+                        "confidence": 0.9986,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "STOP",
+                        "cleaned_text": "STOP",
+                        "confidence": 0.9702,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "STOP",
+                        "cleaned_text": "STOP",
+                        "confidence": 0.9896,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            }
+        }
+    },
+    {
+        "image": "sign08.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9814,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9946,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9848,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9994,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9942,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "DANGER",
+                        "cleaned_text": "DANGER",
+                        "confidence": 0.9993,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 2
+            }
+        }
+    },
+    {
+        "image": "sign09.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "40",
+                        "cleaned_text": "40",
+                        "confidence": 0.9995,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "40",
+                        "cleaned_text": "40",
+                        "confidence": 0.9997,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "40",
+                        "cleaned_text": "40",
+                        "confidence": 0.9999,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 1
+            },
+            "threshold": {
+                "accepted_detections": [],
+                "detection_count": 0
+            }
+        }
+    },
+    {
+        "image": "sign10.jpg",
+        "methods": {
+            "original": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "WHEN RED",
+                        "cleaned_text": "WHENRED",
+                        "confidence": 0.9976,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LIGHT SHOWS",
+                        "cleaned_text": "LIGHTSHOWS",
+                        "confidence": 0.975,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAIT HERE",
+                        "cleaned_text": "WAITHERE",
+                        "confidence": 0.6896,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "grayscale": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "WHEN RED",
+                        "cleaned_text": "WHENRED",
+                        "confidence": 0.9834,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LIGHT SHOWS",
+                        "cleaned_text": "LIGHTSHOWS",
+                        "confidence": 0.8398,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAIT HERE",
+                        "cleaned_text": "WAITHERE",
+                        "confidence": 0.8737,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "clahe": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "WHEN RED",
+                        "cleaned_text": "WHENRED",
+                        "confidence": 0.9781,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LIGHT SHOWS",
+                        "cleaned_text": "LIGHTSHOWS",
+                        "confidence": 0.8519,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAIT HEREI",
+                        "cleaned_text": "WAITHEREI",
+                        "confidence": 0.5895,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            },
+            "threshold": {
+                "accepted_detections": [
+                    {
+                        "raw_text": "WHEN RED",
+                        "cleaned_text": "WHENRED",
+                        "confidence": 0.7384,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "LIGHT SHOWS",
+                        "cleaned_text": "LIGHTSHOWS",
+                        "confidence": 0.996,
+                        "valid_indian_plate": false
+                    },
+                    {
+                        "raw_text": "WAIT HERE'",
+                        "cleaned_text": "WAITHERE",
+                        "confidence": 0.7233,
+                        "valid_indian_plate": false
+                    }
+                ],
+                "detection_count": 3
+            }
+        }
+    }
+]

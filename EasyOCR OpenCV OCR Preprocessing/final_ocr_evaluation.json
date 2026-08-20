@@ -1,0 +1,357 @@
+{
+    "confidence_threshold": 0.5,
+    "method_statistics": {
+        "original": {
+            "valid_samples": 15,
+            "exact_matches": 7,
+            "exact_match_rate": 46.67
+        },
+        "grayscale": {
+            "valid_samples": 15,
+            "exact_matches": 9,
+            "exact_match_rate": 60.0
+        },
+        "clahe": {
+            "valid_samples": 15,
+            "exact_matches": 9,
+            "exact_match_rate": 60.0
+        },
+        "threshold": {
+            "valid_samples": 15,
+            "exact_matches": 4,
+            "exact_match_rate": 26.67
+        }
+    },
+    "details": [
+        {
+            "image": "plate01.jpg",
+            "ground_truth": "HRZGDK0281",
+            "methods": {
+                "original": {
+                    "prediction": "MOTEBEAM",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "HRZGDK0281",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "HRZGDK0281",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "HRZGDK0281",
+                    "exact_match": true
+                }
+            }
+        },
+        {
+            "image": "plate02.jpg",
+            "ground_truth": "KA01AG1034",
+            "methods": {
+                "original": {
+                    "prediction": "KA01AG1034",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "KA01AG1034",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "KA01AG1034",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "KA01AQ7034",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "plate03.jpg",
+            "ground_truth": "HRZGDK8337",
+            "methods": {
+                "original": {
+                    "prediction": "IND",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "HRZGDK8337",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "HRZGDK8337",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "HRZ6DK8337",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "plate06.jpg",
+            "ground_truth": "MH12AB3456",
+            "methods": {
+                "original": {
+                    "prediction": "MH12AB3456",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "MH12AB3456",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "MH12AB3456",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "MH12AB3456",
+                    "exact_match": true
+                }
+            }
+        },
+        {
+            "image": "plate09.jpg",
+            "ground_truth": "TN09BY9726",
+            "methods": {
+                "original": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "TH09BY9726",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "plate10.jpg",
+            "ground_truth": "TN09BY9726",
+            "methods": {
+                "original": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "TN09BY9726",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "TH09BY9726",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign01.jpg",
+            "ground_truth": "GIVEWAY",
+            "methods": {
+                "original": {
+                    "prediction": "GIVE",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "GIVE",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "GIVE",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "GIVE",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign02.jpg",
+            "ground_truth": "KINGSTREETWESTCOLERAINEDRIVE",
+            "methods": {
+                "original": {
+                    "prediction": "STREET",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "STREET",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "WEST",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "WEST",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign03.jpg",
+            "ground_truth": "6198M",
+            "methods": {
+                "original": {
+                    "prediction": "6",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "6",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "6",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "198M",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign04.jpg",
+            "ground_truth": "DONOTENTER",
+            "methods": {
+                "original": {
+                    "prediction": "DONOT",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "ENTER",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "ENTER",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "ENTER",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign05.jpg",
+            "ground_truth": "EXIT",
+            "methods": {
+                "original": {
+                    "prediction": "EXIT",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "EXIT",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "EXIT",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "EXIT",
+                    "exact_match": true
+                }
+            }
+        },
+        {
+            "image": "sign06.jpg",
+            "ground_truth": "CAUTIONLAFFEIEADDICT",
+            "methods": {
+                "original": {
+                    "prediction": "CAUTION",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "CAUTION",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "CAUTION",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "CAUTION",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign07.jpg",
+            "ground_truth": "STOP",
+            "methods": {
+                "original": {
+                    "prediction": "STOP",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "STOP",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "STOP",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "STOP",
+                    "exact_match": true
+                }
+            }
+        },
+        {
+            "image": "sign09.jpg",
+            "ground_truth": "40",
+            "methods": {
+                "original": {
+                    "prediction": "40",
+                    "exact_match": true
+                },
+                "grayscale": {
+                    "prediction": "40",
+                    "exact_match": true
+                },
+                "clahe": {
+                    "prediction": "40",
+                    "exact_match": true
+                },
+                "threshold": {
+                    "prediction": "",
+                    "exact_match": false
+                }
+            }
+        },
+        {
+            "image": "sign10.jpg",
+            "ground_truth": "WHENREDLIGHTSHOWSWAITHERE",
+            "methods": {
+                "original": {
+                    "prediction": "WHENRED",
+                    "exact_match": false
+                },
+                "grayscale": {
+                    "prediction": "WHENRED",
+                    "exact_match": false
+                },
+                "clahe": {
+                    "prediction": "WHENRED",
+                    "exact_match": false
+                },
+                "threshold": {
+                    "prediction": "LIGHTSHOWS",
+                    "exact_match": false
+                }
+            }
+        }
+    ]
+}
