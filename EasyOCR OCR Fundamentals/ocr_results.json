@@ -1,0 +1,1562 @@
+[
+    {
+        "image": "plate01.jpg",
+        "category": "plate",
+        "text": "Mote Beam",
+        "confidence": 0.6162,
+        "bbox": [
+            [
+                1550,
+                1276
+            ],
+            [
+                2022,
+                1276
+            ],
+            [
+                2022,
+                1354
+            ],
+            [
+                1550,
+                1354
+            ]
+        ]
+    },
+    {
+        "image": "plate01.jpg",
+        "category": "plate",
+        "text": "EHRZG@K0281",
+        "confidence": 0.1587,
+        "bbox": [
+            [
+                382,
+                609
+            ],
+            [
+                631,
+                761
+            ],
+            [
+                591,
+                824
+            ],
+            [
+                343,
+                672
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "O5 Rash OrivinG",
+        "confidence": 0.0962,
+        "bbox": [
+            [
+                486,
+                638
+            ],
+            [
+                614,
+                638
+            ],
+            [
+                614,
+                664
+            ],
+            [
+                486,
+                664
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "uption",
+        "confidence": 0.5748,
+        "bbox": [
+            [
+                525,
+                667
+            ],
+            [
+                583,
+                667
+            ],
+            [
+                583,
+                683
+            ],
+            [
+                525,
+                683
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "83",
+        "confidence": 0.2625,
+        "bbox": [
+            [
+                215,
+                893
+            ],
+            [
+                285,
+                893
+            ],
+            [
+                285,
+                953
+            ],
+            [
+                215,
+                953
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "KA 01 Ac 1034",
+        "confidence": 0.7859,
+        "bbox": [
+            [
+                559,
+                1127
+            ],
+            [
+                1027,
+                1127
+            ],
+            [
+                1027,
+                1241
+            ],
+            [
+                559,
+                1241
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "Ld",
+        "confidence": 0.094,
+        "bbox": [
+            [
+                446,
+                657
+            ],
+            [
+                483,
+                653
+            ],
+            [
+                484,
+                662
+            ],
+            [
+                447,
+                666
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "Thou-",
+        "confidence": 0.1162,
+        "bbox": [
+            [
+                524,
+                659
+            ],
+            [
+                557,
+                656
+            ],
+            [
+                558,
+                665
+            ],
+            [
+                525,
+                669
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "GALL",
+        "confidence": 0.1327,
+        "bbox": [
+            [
+                473,
+                664
+            ],
+            [
+                509,
+                660
+            ],
+            [
+                510,
+                670
+            ],
+            [
+                475,
+                674
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "PLLASL",
+        "confidence": 0.081,
+        "bbox": [
+            [
+                417,
+                670
+            ],
+            [
+                471,
+                665
+            ],
+            [
+                473,
+                678
+            ],
+            [
+                419,
+                684
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "SheeT",
+        "confidence": 0.1095,
+        "bbox": [
+            [
+                464,
+                674
+            ],
+            [
+                524,
+                668
+            ],
+            [
+                526,
+                685
+            ],
+            [
+                466,
+                691
+            ]
+        ]
+    },
+    {
+        "image": "plate02.avif",
+        "category": "plate",
+        "text": "ANO",
+        "confidence": 0.1286,
+        "bbox": [
+            [
+                431,
+                681
+            ],
+            [
+                465,
+                677
+            ],
+            [
+                467,
+                691
+            ],
+            [
+                433,
+                695
+            ]
+        ]
+    },
+    {
+        "image": "plate03.jpg",
+        "category": "plate",
+        "text": "IND",
+        "confidence": 0.9979,
+        "bbox": [
+            [
+                119,
+                273
+            ],
+            [
+                143,
+                273
+            ],
+            [
+                143,
+                287
+            ],
+            [
+                119,
+                287
+            ]
+        ]
+    },
+    {
+        "image": "plate03.jpg",
+        "category": "plate",
+        "text": "HR26DK8337|",
+        "confidence": 0.4214,
+        "bbox": [
+            [
+                135,
+                253
+            ],
+            [
+                385,
+                253
+            ],
+            [
+                385,
+                307
+            ],
+            [
+                135,
+                307
+            ]
+        ]
+    },
+    {
+        "image": "plate04.jpg",
+        "category": "plate",
+        "text": "[asazl",
+        "confidence": 0.0169,
+        "bbox": [
+            [
+                218,
+                218
+            ],
+            [
+                305,
+                218
+            ],
+            [
+                305,
+                239
+            ],
+            [
+                218,
+                239
+            ]
+        ]
+    },
+    {
+        "image": "plate05.jpg",
+        "category": "plate",
+        "text": "KL 1bd 6364",
+        "confidence": 0.2766,
+        "bbox": [
+            [
+                155,
+                341
+            ],
+            [
+                252,
+                341
+            ],
+            [
+                252,
+                369
+            ],
+            [
+                155,
+                369
+            ]
+        ]
+    },
+    {
+        "image": "plate06.jpg",
+        "category": "plate",
+        "text": "Black Number Plate in India",
+        "confidence": 0.9647,
+        "bbox": [
+            [
+                36,
+                12
+            ],
+            [
+                526,
+                12
+            ],
+            [
+                526,
+                61
+            ],
+            [
+                36,
+                61
+            ]
+        ]
+    },
+    {
+        "image": "plate06.jpg",
+        "category": "plate",
+        "text": "MH 12AB 3456",
+        "confidence": 0.9264,
+        "bbox": [
+            [
+                232,
+                252
+            ],
+            [
+                330,
+                252
+            ],
+            [
+                330,
+                276
+            ],
+            [
+                232,
+                276
+            ]
+        ]
+    },
+    {
+        "image": "plate06.jpg",
+        "category": "plate",
+        "text": "Coverfox",
+        "confidence": 0.9998,
+        "bbox": [
+            [
+                414,
+                324
+            ],
+            [
+                540,
+                324
+            ],
+            [
+                540,
+                356
+            ],
+            [
+                414,
+                356
+            ]
+        ]
+    },
+    {
+        "image": "plate07.jpg",
+        "category": "plate",
+        "text": "PL PVC  PIPES",
+        "confidence": 0.5585,
+        "bbox": [
+            [
+                0,
+                92
+            ],
+            [
+                130,
+                92
+            ],
+            [
+                130,
+                118
+            ],
+            [
+                0,
+                118
+            ]
+        ]
+    },
+    {
+        "image": "plate07.jpg",
+        "category": "plate",
+        "text": "HRZ 1C8Z03",
+        "confidence": 0.5123,
+        "bbox": [
+            [
+                150,
+                382
+            ],
+            [
+                238,
+                382
+            ],
+            [
+                238,
+                406
+            ],
+            [
+                150,
+                406
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "SRI",
+        "confidence": 0.9312,
+        "bbox": [
+            [
+                1384,
+                560
+            ],
+            [
+                1423,
+                560
+            ],
+            [
+                1423,
+                592
+            ],
+            [
+                1384,
+                592
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "IaJil Ltn 0",
+        "confidence": 0.022,
+        "bbox": [
+            [
+                1320,
+                626
+            ],
+            [
+                1405,
+                626
+            ],
+            [
+                1405,
+                645
+            ],
+            [
+                1320,
+                645
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "8or60",
+        "confidence": 0.0604,
+        "bbox": [
+            [
+                0,
+                655
+            ],
+            [
+                57,
+                655
+            ],
+            [
+                57,
+                681
+            ],
+            [
+                0,
+                681
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "Fcnop)",
+        "confidence": 0.023,
+        "bbox": [
+            [
+                63,
+                657
+            ],
+            [
+                127,
+                657
+            ],
+            [
+                127,
+                681
+            ],
+            [
+                63,
+                681
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "9",
+        "confidence": 0.8556,
+        "bbox": [
+            [
+                303,
+                671
+            ],
+            [
+                330,
+                671
+            ],
+            [
+                330,
+                704
+            ],
+            [
+                303,
+                704
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "8258'28038",
+        "confidence": 0.1145,
+        "bbox": [
+            [
+                184,
+                702
+            ],
+            [
+                424,
+                702
+            ],
+            [
+                424,
+                752
+            ],
+            [
+                184,
+                752
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "2epoz)",
+        "confidence": 0.1775,
+        "bbox": [
+            [
+                1107,
+                693
+            ],
+            [
+                1238,
+                693
+            ],
+            [
+                1238,
+                733
+            ],
+            [
+                1107,
+                733
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "old",
+        "confidence": 0.2951,
+        "bbox": [
+            [
+                0,
+                695
+            ],
+            [
+                124,
+                695
+            ],
+            [
+                124,
+                783
+            ],
+            [
+                0,
+                783
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "Sri",
+        "confidence": 0.4404,
+        "bbox": [
+            [
+                274,
+                740
+            ],
+            [
+                333,
+                740
+            ],
+            [
+                333,
+                769
+            ],
+            [
+                274,
+                769
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "Dala' rres",
+        "confidence": 0.018,
+        "bbox": [
+            [
+                1102,
+                731
+            ],
+            [
+                1257,
+                731
+            ],
+            [
+                1257,
+                763
+            ],
+            [
+                1102,
+                763
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "SHABARI BAKERY",
+        "confidence": 0.8281,
+        "bbox": [
+            [
+                173,
+                765
+            ],
+            [
+                431,
+                765
+            ],
+            [
+                431,
+                807
+            ],
+            [
+                173,
+                807
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "'SRIRAMA Srnqguad",
+        "confidence": 0.0459,
+        "bbox": [
+            [
+                1087,
+                746
+            ],
+            [
+                1258,
+                746
+            ],
+            [
+                1258,
+                797
+            ],
+            [
+                1087,
+                797
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": ";",
+        "confidence": 0.0213,
+        "bbox": [
+            [
+                17,
+                902
+            ],
+            [
+                44,
+                902
+            ],
+            [
+                44,
+                992
+            ],
+            [
+                17,
+                992
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "60 J-966ooo8s",
+        "confidence": 0.0209,
+        "bbox": [
+            [
+                786,
+                1026
+            ],
+            [
+                957,
+                1026
+            ],
+            [
+                957,
+                1045
+            ],
+            [
+                786,
+                1045
+            ]
+        ]
+    },
+    {
+        "image": "plate08.avif",
+        "category": "plate",
+        "text": "RKAS1AE8755]",
+        "confidence": 0.3826,
+        "bbox": [
+            [
+                626,
+                2111
+            ],
+            [
+                1252,
+                2111
+            ],
+            [
+                1252,
+                2251
+            ],
+            [
+                626,
+                2251
+            ]
+        ]
+    },
+    {
+        "image": "plate09.avif",
+        "category": "plate",
+        "text": "M#r",
+        "confidence": 0.0062,
+        "bbox": [
+            [
+                116,
+                156
+            ],
+            [
+                186,
+                156
+            ],
+            [
+                186,
+                184
+            ],
+            [
+                116,
+                184
+            ]
+        ]
+    },
+    {
+        "image": "plate09.avif",
+        "category": "plate",
+        "text": "CELZ-",
+        "confidence": 0.0522,
+        "bbox": [
+            [
+                533,
+                167
+            ],
+            [
+                601,
+                167
+            ],
+            [
+                601,
+                181
+            ],
+            [
+                533,
+                181
+            ]
+        ]
+    },
+    {
+        "image": "plate09.avif",
+        "category": "plate",
+        "text": "TN 09 BY 9726",
+        "confidence": 0.7826,
+        "bbox": [
+            [
+                246,
+                236
+            ],
+            [
+                478,
+                236
+            ],
+            [
+                478,
+                286
+            ],
+            [
+                246,
+                286
+            ]
+        ]
+    },
+    {
+        "image": "plate10.avif",
+        "category": "plate",
+        "text": "M#r",
+        "confidence": 0.0062,
+        "bbox": [
+            [
+                116,
+                156
+            ],
+            [
+                186,
+                156
+            ],
+            [
+                186,
+                184
+            ],
+            [
+                116,
+                184
+            ]
+        ]
+    },
+    {
+        "image": "plate10.avif",
+        "category": "plate",
+        "text": "CELZ-",
+        "confidence": 0.0522,
+        "bbox": [
+            [
+                533,
+                167
+            ],
+            [
+                601,
+                167
+            ],
+            [
+                601,
+                181
+            ],
+            [
+                533,
+                181
+            ]
+        ]
+    },
+    {
+        "image": "plate10.avif",
+        "category": "plate",
+        "text": "TN 09 BY 9726",
+        "confidence": 0.7826,
+        "bbox": [
+            [
+                246,
+                236
+            ],
+            [
+                478,
+                236
+            ],
+            [
+                478,
+                286
+            ],
+            [
+                246,
+                286
+            ]
+        ]
+    },
+    {
+        "image": "sign01.jpg",
+        "category": "signboard",
+        "text": "GIVE",
+        "confidence": 0.9996,
+        "bbox": [
+            [
+                166,
+                144
+            ],
+            [
+                424,
+                144
+            ],
+            [
+                424,
+                242
+            ],
+            [
+                166,
+                242
+            ]
+        ]
+    },
+    {
+        "image": "sign01.jpg",
+        "category": "signboard",
+        "text": "WAY",
+        "confidence": 0.999,
+        "bbox": [
+            [
+                223,
+                247
+            ],
+            [
+                383,
+                247
+            ],
+            [
+                383,
+                313
+            ],
+            [
+                223,
+                313
+            ]
+        ]
+    },
+    {
+        "image": "sign02.jpg",
+        "category": "signboard",
+        "text": "Street",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                105,
+                17
+            ],
+            [
+                232,
+                17
+            ],
+            [
+                232,
+                65
+            ],
+            [
+                105,
+                65
+            ]
+        ]
+    },
+    {
+        "image": "sign02.jpg",
+        "category": "signboard",
+        "text": "West",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                73,
+                61
+            ],
+            [
+                173,
+                61
+            ],
+            [
+                173,
+                103
+            ],
+            [
+                73,
+                103
+            ]
+        ]
+    },
+    {
+        "image": "sign02.jpg",
+        "category": "signboard",
+        "text": "Coleraine",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                105,
+                129
+            ],
+            [
+                298,
+                129
+            ],
+            [
+                298,
+                179
+            ],
+            [
+                105,
+                179
+            ]
+        ]
+    },
+    {
+        "image": "sign02.jpg",
+        "category": "signboard",
+        "text": "Drive",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                153,
+                177
+            ],
+            [
+                259,
+                177
+            ],
+            [
+                259,
+                221
+            ],
+            [
+                153,
+                221
+            ]
+        ]
+    },
+    {
+        "image": "sign02.jpg",
+        "category": "signboard",
+        "text": "King",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                13,
+                13
+            ],
+            [
+                106,
+                24
+            ],
+            [
+                99,
+                70
+            ],
+            [
+                6,
+                58
+            ]
+        ]
+    },
+    {
+        "image": "sign03.jpg",
+        "category": "signboard",
+        "text": "6",
+        "confidence": 1.0,
+        "bbox": [
+            [
+                111,
+                117
+            ],
+            [
+                131,
+                117
+            ],
+            [
+                131,
+                141
+            ],
+            [
+                111,
+                141
+            ]
+        ]
+    },
+    {
+        "image": "sign03.jpg",
+        "category": "signboard",
+        "text": "1.98m",
+        "confidence": 0.9682,
+        "bbox": [
+            [
+                76,
+                138
+            ],
+            [
+                150,
+                138
+            ],
+            [
+                150,
+                168
+            ],
+            [
+                76,
+                168
+            ]
+        ]
+    },
+    {
+        "image": "sign04.jpg",
+        "category": "signboard",
+        "text": "DO NOT",
+        "confidence": 0.9835,
+        "bbox": [
+            [
+                77,
+                79
+            ],
+            [
+                297,
+                79
+            ],
+            [
+                297,
+                141
+            ],
+            [
+                77,
+                141
+            ]
+        ]
+    },
+    {
+        "image": "sign04.jpg",
+        "category": "signboard",
+        "text": "ENTER",
+        "confidence": 0.6623,
+        "bbox": [
+            [
+                91,
+                223
+            ],
+            [
+                283,
+                223
+            ],
+            [
+                283,
+                287
+            ],
+            [
+                91,
+                287
+            ]
+        ]
+    },
+    {
+        "image": "sign05.jpg",
+        "category": "signboard",
+        "text": "EXIT",
+        "confidence": 0.9992,
+        "bbox": [
+            [
+                106,
+                112
+            ],
+            [
+                256,
+                112
+            ],
+            [
+                256,
+                184
+            ],
+            [
+                106,
+                184
+            ]
+        ]
+    },
+    {
+        "image": "sign06.jpg",
+        "category": "signboard",
+        "text": "CAUTION",
+        "confidence": 0.8236,
+        "bbox": [
+            [
+                50,
+                92
+            ],
+            [
+                146,
+                92
+            ],
+            [
+                146,
+                124
+            ],
+            [
+                50,
+                124
+            ]
+        ]
+    },
+    {
+        "image": "sign06.jpg",
+        "category": "signboard",
+        "text": "LAFFEIe",
+        "confidence": 0.6531,
+        "bbox": [
+            [
+                52,
+                122
+            ],
+            [
+                141,
+                122
+            ],
+            [
+                141,
+                146
+            ],
+            [
+                52,
+                146
+            ]
+        ]
+    },
+    {
+        "image": "sign06.jpg",
+        "category": "signboard",
+        "text": "addict",
+        "confidence": 0.577,
+        "bbox": [
+            [
+                66,
+                140
+            ],
+            [
+                128,
+                140
+            ],
+            [
+                128,
+                164
+            ],
+            [
+                66,
+                164
+            ]
+        ]
+    },
+    {
+        "image": "sign07.jpg",
+        "category": "signboard",
+        "text": "STOP",
+        "confidence": 0.9986,
+        "bbox": [
+            [
+                25,
+                97
+            ],
+            [
+                326,
+                97
+            ],
+            [
+                326,
+                243
+            ],
+            [
+                25,
+                243
+            ]
+        ]
+    },
+    {
+        "image": "sign08.png",
+        "category": "signboard",
+        "text": "DANGER",
+        "confidence": 0.7873,
+        "bbox": [
+            [
+                92,
+                94
+            ],
+            [
+                144,
+                94
+            ],
+            [
+                144,
+                118
+            ],
+            [
+                92,
+                118
+            ]
+        ]
+    },
+    {
+        "image": "sign08.png",
+        "category": "signboard",
+        "text": "DANGER",
+        "confidence": 0.9998,
+        "bbox": [
+            [
+                83,
+                183
+            ],
+            [
+                153,
+                183
+            ],
+            [
+                153,
+                199
+            ],
+            [
+                83,
+                199
+            ]
+        ]
+    },
+    {
+        "image": "sign08.png",
+        "category": "signboard",
+        "text": "Sict",
+        "confidence": 0.0276,
+        "bbox": [
+            [
+                106,
+                198
+            ],
+            [
+                128,
+                198
+            ],
+            [
+                128,
+                206
+            ],
+            [
+                106,
+                206
+            ]
+        ]
+    },
+    {
+        "image": "sign09.jpg",
+        "category": "signboard",
+        "text": "40",
+        "confidence": 0.9975,
+        "bbox": [
+            [
+                90,
+                67
+            ],
+            [
+                218,
+                67
+            ],
+            [
+                218,
+                178
+            ],
+            [
+                90,
+                178
+            ]
+        ]
+    },
+    {
+        "image": "sign10.jpg",
+        "category": "signboard",
+        "text": "WHEN RED",
+        "confidence": 0.9974,
+        "bbox": [
+            [
+                67,
+                39
+            ],
+            [
+                318,
+                39
+            ],
+            [
+                318,
+                90
+            ],
+            [
+                67,
+                90
+            ]
+        ]
+    },
+    {
+        "image": "sign10.jpg",
+        "category": "signboard",
+        "text": "LIGHT SHOWS",
+        "confidence": 0.9965,
+        "bbox": [
+            [
+                24,
+                112
+            ],
+            [
+                357,
+                112
+            ],
+            [
+                357,
+                166
+            ],
+            [
+                24,
+                166
+            ]
+        ]
+    },
+    {
+        "image": "sign10.jpg",
+        "category": "signboard",
+        "text": "WAIT HEREi",
+        "confidence": 0.4505,
+        "bbox": [
+            [
+                52,
+                187
+            ],
+            [
+                333,
+                187
+            ],
+            [
+                333,
+                249
+            ],
+            [
+                52,
+                249
+            ]
+        ]
+    }
+]
