@@ -1,0 +1,15 @@
+image,timestamp,text,ocr_confidence,detection_confidence,box,crop,valid_plate
+vehicle01.jpg,2026-08-21T15:11:35,HRZGDK0281,0.7059,0.9555,"{""x1"": 207, ""y1"": 282, ""x2"": 1623, ""y2"": 1255}",vehicle01_plate_1.jpg,False
+vehicle01.jpg,2026-08-21T15:11:35,1,0.9225,0.9117,"{""x1"": 363, ""y1"": 619, ""x2"": 617, ""y2"": 814}",vehicle01_plate_2.jpg,False
+vehicle01.jpg,2026-08-21T15:11:35,BEAM,1.0,0.4009,"{""x1"": 1783, ""y1"": 1282, ""x2"": 2034, ""y2"": 1360}",vehicle01_plate_3.jpg,False
+vehicle02.jpg,2026-08-21T15:11:36,IND,0.9305,0.7797,"{""x1"": 113, ""y1"": 247, ""x2"": 333, ""y2"": 306}",vehicle02_plate_1.jpg,False
+vehicle02.jpg,2026-08-21T15:11:36,R26DK8337,0.4228,0.5673,"{""x1"": 177, ""y1"": 247, ""x2"": 387, ""y2"": 313}",vehicle02_plate_2.jpg,False
+vehicle02.jpg,2026-08-21T15:11:36,IND,0.696,0.345,"{""x1"": 0, ""y1"": 168, ""x2"": 498, ""y2"": 387}",vehicle02_plate_3.jpg,False
+vehicle03.jpg,2026-08-21T15:11:37,0A6JR4N07,0.0219,0.9377,"{""x1"": 102, ""y1"": 4, ""x2"": 430, ""y2"": 295}",vehicle03_plate_1.jpg,False
+vehicle03.jpg,2026-08-21T15:11:37,,0.0,0.9072,"{""x1"": 0, ""y1"": 0, ""x2"": 121, ""y2"": 300}",vehicle03_plate_2.jpg,False
+vehicle03.jpg,2026-08-21T15:11:37,,0.0,0.8299,"{""x1"": 223, ""y1"": 216, ""x2"": 303, ""y2"": 239}",vehicle03_plate_3.jpg,False
+vehicle04.jpg,2026-08-21T15:11:38,KL1BD6364,0.5277,0.9692,"{""x1"": 66, ""y1"": 139, ""x2"": 352, ""y2"": 416}",vehicle04_plate_1.jpg,True
+vehicle04.jpg,2026-08-21T15:11:38,KL1B6364,0.3348,0.9504,"{""x1"": 157, ""y1"": 342, ""x2"": 255, ""y2"": 369}",vehicle04_plate_2.jpg,True
+vehicle05.jpg,2026-08-21T15:11:39,HRZ1C8Z03,0.7754,0.9635,"{""x1"": 13, ""y1"": 164, ""x2"": 356, ""y2"": 461}",vehicle05_plate_1.jpg,False
+vehicle05.jpg,2026-08-21T15:11:39,HR7C8703,0.2815,0.6964,"{""x1"": 132, ""y1"": 379, ""x2"": 250, ""y2"": 406}",vehicle05_plate_2.jpg,True
+vehicle05.jpg,2026-08-21T15:11:39,HRZ1C8703,0.5453,0.6718,"{""x1"": 132, ""y1"": 357, ""x2"": 250, ""y2"": 407}",vehicle05_plate_3.jpg,False

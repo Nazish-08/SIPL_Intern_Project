@@ -1,0 +1,212 @@
+[
+    {
+        "image": "vehicle01.jpg",
+        "timestamp": "2026-08-21T15:11:35",
+        "text": "HRZGDK0281",
+        "ocr_confidence": 0.7059,
+        "detection_confidence": 0.9555,
+        "box": {
+            "x1": 207,
+            "y1": 282,
+            "x2": 1623,
+            "y2": 1255
+        },
+        "crop": "vehicle01_plate_1.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle01.jpg",
+        "timestamp": "2026-08-21T15:11:35",
+        "text": "1",
+        "ocr_confidence": 0.9225,
+        "detection_confidence": 0.9117,
+        "box": {
+            "x1": 363,
+            "y1": 619,
+            "x2": 617,
+            "y2": 814
+        },
+        "crop": "vehicle01_plate_2.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle01.jpg",
+        "timestamp": "2026-08-21T15:11:35",
+        "text": "BEAM",
+        "ocr_confidence": 1.0,
+        "detection_confidence": 0.4009,
+        "box": {
+            "x1": 1783,
+            "y1": 1282,
+            "x2": 2034,
+            "y2": 1360
+        },
+        "crop": "vehicle01_plate_3.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle02.jpg",
+        "timestamp": "2026-08-21T15:11:36",
+        "text": "IND",
+        "ocr_confidence": 0.9305,
+        "detection_confidence": 0.7797,
+        "box": {
+            "x1": 113,
+            "y1": 247,
+            "x2": 333,
+            "y2": 306
+        },
+        "crop": "vehicle02_plate_1.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle02.jpg",
+        "timestamp": "2026-08-21T15:11:36",
+        "text": "R26DK8337",
+        "ocr_confidence": 0.4228,
+        "detection_confidence": 0.5673,
+        "box": {
+            "x1": 177,
+            "y1": 247,
+            "x2": 387,
+            "y2": 313
+        },
+        "crop": "vehicle02_plate_2.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle02.jpg",
+        "timestamp": "2026-08-21T15:11:36",
+        "text": "IND",
+        "ocr_confidence": 0.696,
+        "detection_confidence": 0.345,
+        "box": {
+            "x1": 0,
+            "y1": 168,
+            "x2": 498,
+            "y2": 387
+        },
+        "crop": "vehicle02_plate_3.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle03.jpg",
+        "timestamp": "2026-08-21T15:11:37",
+        "text": "0A6JR4N07",
+        "ocr_confidence": 0.0219,
+        "detection_confidence": 0.9377,
+        "box": {
+            "x1": 102,
+            "y1": 4,
+            "x2": 430,
+            "y2": 295
+        },
+        "crop": "vehicle03_plate_1.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle03.jpg",
+        "timestamp": "2026-08-21T15:11:37",
+        "text": "",
+        "ocr_confidence": 0.0,
+        "detection_confidence": 0.9072,
+        "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 121,
+            "y2": 300
+        },
+        "crop": "vehicle03_plate_2.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle03.jpg",
+        "timestamp": "2026-08-21T15:11:37",
+        "text": "",
+        "ocr_confidence": 0.0,
+        "detection_confidence": 0.8299,
+        "box": {
+            "x1": 223,
+            "y1": 216,
+            "x2": 303,
+            "y2": 239
+        },
+        "crop": "vehicle03_plate_3.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle04.jpg",
+        "timestamp": "2026-08-21T15:11:38",
+        "text": "KL1BD6364",
+        "ocr_confidence": 0.5277,
+        "detection_confidence": 0.9692,
+        "box": {
+            "x1": 66,
+            "y1": 139,
+            "x2": 352,
+            "y2": 416
+        },
+        "crop": "vehicle04_plate_1.jpg",
+        "valid_plate": true
+    },
+    {
+        "image": "vehicle04.jpg",
+        "timestamp": "2026-08-21T15:11:38",
+        "text": "KL1B6364",
+        "ocr_confidence": 0.3348,
+        "detection_confidence": 0.9504,
+        "box": {
+            "x1": 157,
+            "y1": 342,
+            "x2": 255,
+            "y2": 369
+        },
+        "crop": "vehicle04_plate_2.jpg",
+        "valid_plate": true
+    },
+    {
+        "image": "vehicle05.jpg",
+        "timestamp": "2026-08-21T15:11:39",
+        "text": "HRZ1C8Z03",
+        "ocr_confidence": 0.7754,
+        "detection_confidence": 0.9635,
+        "box": {
+            "x1": 13,
+            "y1": 164,
+            "x2": 356,
+            "y2": 461
+        },
+        "crop": "vehicle05_plate_1.jpg",
+        "valid_plate": false
+    },
+    {
+        "image": "vehicle05.jpg",
+        "timestamp": "2026-08-21T15:11:39",
+        "text": "HR7C8703",
+        "ocr_confidence": 0.2815,
+        "detection_confidence": 0.6964,
+        "box": {
+            "x1": 132,
+            "y1": 379,
+            "x2": 250,
+            "y2": 406
+        },
+        "crop": "vehicle05_plate_2.jpg",
+        "valid_plate": true
+    },
+    {
+        "image": "vehicle05.jpg",
+        "timestamp": "2026-08-21T15:11:39",
+        "text": "HRZ1C8703",
+        "ocr_confidence": 0.5453,
+        "detection_confidence": 0.6718,
+        "box": {
+            "x1": 132,
+            "y1": 357,
+            "x2": 250,
+            "y2": 407
+        },
+        "crop": "vehicle05_plate_3.jpg",
+        "valid_plate": false
+    }
+]
