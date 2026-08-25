@@ -1,0 +1,167 @@
+[
+    {
+        "image": "day/vehicle01.jpg",
+        "ground_truth": null,
+        "prediction": "HR25F0083",
+        "ocr_confidence": 0.999,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.2329,
+        "ocr_time_seconds": 0.6536,
+        "total_time_seconds": 0.8885
+    },
+    {
+        "image": "day/vehicle02.jpg",
+        "ground_truth": "MP04CC2688",
+        "prediction": "MHZODV23661",
+        "ocr_confidence": 0.2405,
+        "detections": 5,
+        "exact_match": false,
+        "detection_time_seconds": 0.0752,
+        "ocr_time_seconds": 0.9218,
+        "total_time_seconds": 0.9973
+    },
+    {
+        "image": "day/vehicle03.webp",
+        "ground_truth": null,
+        "prediction": "IND",
+        "ocr_confidence": 0.9998,
+        "detections": 3,
+        "exact_match": false,
+        "detection_time_seconds": 0.0711,
+        "ocr_time_seconds": 0.7996,
+        "total_time_seconds": 0.8709
+    },
+    {
+        "image": "day/vehicle04.avif",
+        "ground_truth": null,
+        "prediction": "J3E9NT",
+        "ocr_confidence": 0.1872,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.2339,
+        "ocr_time_seconds": 8.2027,
+        "total_time_seconds": 8.4368
+    },
+    {
+        "image": "day/vehicle05.avif",
+        "ground_truth": null,
+        "prediction": "TN09BY9726",
+        "ocr_confidence": 0.7097,
+        "detections": 3,
+        "exact_match": false,
+        "detection_time_seconds": 0.1203,
+        "ocr_time_seconds": 1.8425,
+        "total_time_seconds": 1.9631
+    },
+    {
+        "image": "night/vehicle01.jpg",
+        "ground_truth": "HR25F0083",
+        "prediction": "",
+        "ocr_confidence": 0.0,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.1515,
+        "ocr_time_seconds": 0.5284,
+        "total_time_seconds": 0.6801
+    },
+    {
+        "image": "night/vehicle02.jpg",
+        "ground_truth": "MH20DV2366",
+        "prediction": "MH14BR6899",
+        "ocr_confidence": 0.8161,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.1339,
+        "ocr_time_seconds": 17.1659,
+        "total_time_seconds": 17.3
+    },
+    {
+        "image": "night/vehicle03.jpg",
+        "ground_truth": null,
+        "prediction": "1I",
+        "ocr_confidence": 0.1218,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.1094,
+        "ocr_time_seconds": 0.4604,
+        "total_time_seconds": 0.57
+    },
+    {
+        "image": "night/vehicle04.webp",
+        "ground_truth": null,
+        "prediction": "DL3CAW2927",
+        "ocr_confidence": 0.5188,
+        "detections": 1,
+        "exact_match": false,
+        "detection_time_seconds": 0.0846,
+        "ocr_time_seconds": 0.3471,
+        "total_time_seconds": 0.4319
+    },
+    {
+        "image": "night/vehicle05.webp",
+        "ground_truth": null,
+        "prediction": "RRA",
+        "ocr_confidence": 0.982,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.0931,
+        "ocr_time_seconds": 0.7937,
+        "total_time_seconds": 0.887
+    },
+    {
+        "image": "angle/vehicle01.webp",
+        "ground_truth": null,
+        "prediction": "MP33C3370",
+        "ocr_confidence": 0.5439,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.0676,
+        "ocr_time_seconds": 1.2513,
+        "total_time_seconds": 1.3191
+    },
+    {
+        "image": "angle/vehicle02.jpg",
+        "ground_truth": "MH14BR6899",
+        "prediction": "MP04CC2688",
+        "ocr_confidence": 0.3613,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.0595,
+        "ocr_time_seconds": 1.056,
+        "total_time_seconds": 1.1157
+    },
+    {
+        "image": "angle/vehicle03.avif",
+        "ground_truth": null,
+        "prediction": "NA",
+        "ocr_confidence": 0.1137,
+        "detections": 4,
+        "exact_match": false,
+        "detection_time_seconds": 0.1332,
+        "ocr_time_seconds": 0.6408,
+        "total_time_seconds": 0.7743
+    },
+    {
+        "image": "angle/vehicle04.webp",
+        "ground_truth": "DL3CAW2927",
+        "prediction": "IND",
+        "ocr_confidence": 0.9998,
+        "detections": 3,
+        "exact_match": false,
+        "detection_time_seconds": 0.101,
+        "ocr_time_seconds": 0.9773,
+        "total_time_seconds": 1.0786
+    },
+    {
+        "image": "angle/vehicle05.webp",
+        "ground_truth": "RRA1234",
+        "prediction": "IND",
+        "ocr_confidence": 0.9971,
+        "detections": 2,
+        "exact_match": false,
+        "detection_time_seconds": 0.1096,
+        "ocr_time_seconds": 0.8781,
+        "total_time_seconds": 0.988
+    }
+]
